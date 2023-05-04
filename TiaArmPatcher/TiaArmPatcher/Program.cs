@@ -6,7 +6,7 @@ Console.ForegroundColor = ConsoleColor.Gray;
 Console.WriteLine("TIA Portal ARM Patcher");
 Console.WriteLine();
 
-var tiaPath = "C:\\Program Files\\Siemens\\Automation\\Portal V18\\Bin";
+var tiaPath = "C:\\Program Files\\Siemens\\Automation\\Portal V17\\Bin";
 
 Console.WriteLine("TIA Dir: " + tiaPath);
 Console.WriteLine();
